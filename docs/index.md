@@ -13,7 +13,7 @@
 - [Análise de requisitos funcionais e não-fucionais](#descrição-dos-requisitos)
 - [Diagrama de casos de uso](#diagrama-de-comportamento-atores)
 - [Descrição dos casos de uso](#descrição-das-funcões)
-- [Diagrama de senquencia](#diagrama-de-ordem-interações)
+- [Diagrama de sequência](#diagrama-de-ordem-interações)
 
 
 # Autores
@@ -46,6 +46,6 @@ Requisitos não funcionais:
 
 *&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
 
-# Diagrama de sequencia
+# Diagrama de sequência
 
 *&lt;Diagrama de ordem e interação dos objetos&gt;*
