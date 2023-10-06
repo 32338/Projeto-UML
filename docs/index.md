@@ -3,12 +3,8 @@
 
 
 <font size="+12"><center>
-*&lt;Nome do Projeto&gt;*
+*&lt;Projeto UML&gt;*
 </center></font>
-
->*Observação 1: A estrutura inicial deste documento é só um exemplo. O seu grupo deverá alterar esta estrutura de acordo com o que está sendo solicitado na disciplina.*
-
->*Observação 2: O índice abaixo não precisa ser editado se você utilizar o Visual Studio Code com a extensão **Markdown All in One**. Essa extensão atualiza o índice automaticamente quando o arquivo é salvo.*
 
 **Conteúdo**
 
@@ -18,24 +14,12 @@
 - [Diagrama de casos de uso](#diagrama-de-comportamento-atores)
 - [Descrição dos casos de uso](#descrição-das-funcões)
 - [Diagrama de senquencia](#diagrama-de-ordem-interações)
-- [Diagrama de classes](#diagrama-orientado-objetos)
-- [Diagrama de componentes](#diagrama-estrutura-componente)
-- [Decisões de arquitetura](#decisões-de-arquitetura)
-- [Diagrama de implantação](#diagrama-de-hardware-software)
-- [Referências](#referências)
 
 
 # Autores
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
-* Aluno 5
-* Aluno 6
-* Aluno 7
-* Aluno 8
-
+* Andrea Cecilia Gutierrez Garcia - 32338392
+* Mariana Okamoto - 32337981
 
 # Descrição do projeto
 
@@ -55,23 +39,3 @@
 # Diagrama de sequencia
 
 *&lt;Diagrama de ordem e interação dos objetos&gt;*
-
-# Diagrama de classes
-
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
-
-# Diagrama de Componentes
-
-*&lt;Diagrama para exibir a relação estrutural dos componentes de um sistema de software
-
-# Decisões de arquitetura
-
-*&lt;Descrever a infraestrutura escolhida para arquitetura do projeto&gt;*
-
-# Diagrama de implantação
-
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
-
-# Referências
-
-*&lt;Lista de referências&gt;*
