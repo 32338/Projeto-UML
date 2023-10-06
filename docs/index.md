@@ -1,4 +1,4 @@
-![eng](https://github.com/32338/Projeto-UML/assets/142840950/f8646afc-42e0-4be6-8f21-4d794d183b1a)<h2><a href= "https://www.mackenzie.br">Universidade Presbiteriana Mackenzie</a></h2>
+<h2><a href= "https://www.mackenzie.br">Universidade Presbiteriana Mackenzie</a></h2>
 <h3><a href= "https://www.mackenzie.br/graduacao/sao-paulo-higienopolis/sistemas-de-informacao">Sistemas de Informação</a></h3>
 
 
