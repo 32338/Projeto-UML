@@ -26,7 +26,7 @@
 O nosso sistema utiliza-se de lojas de pizza  que não teriam nenhum espaço de varejo, com a função é somente receber ordens, preparar e entregar as pizzas em menos de 30 minutos. O sistema de software cuida do atendimento do pedido e procura a  localização da fábrica da pizza mais próxima do cliente para fazer a entrega. Assim, a loja localizada o mais próximo do cliente receberá a ordem através de uma central, processará, e entregará a ordem a tempo.
 
 # Análise de requisitos funcionais e não-funcionais
-Requisitos funcionais: 
+**Requisitos funcionais: **
 * O sistema deve realizar o processamento do pedido.
 * O sistema deve receber o cadastro do cliente.
 * O sistema deve identificar a localização de loja mais próxima do cliente e enviar o pedido à mesma.
