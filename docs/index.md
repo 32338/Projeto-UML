@@ -32,7 +32,7 @@ O nosso sistema utiliza-se de lojas de pizza  que não teriam nenhum espaço de 
 * O sistema deve identificar a localização de loja mais próxima do cliente e enviar o pedido à mesma.
 * O sistema deve ordenar os pedidos de cada loja, de forma a garantir a entrega dentro do tempo estipulado.
 
-### Requisitos não funcionais: 
+** Requisitos não funcionais: **
 * O sistema deve ser rápido e eficiente, garantindo que o processamento de pedidos e as buscas pela loja mais próxima ocorram com um desempenho ideal.
 * O sistema deve proteger as informações fornecidas pelo cliente, a fim de cumprir com as políticas de segurança.
 
