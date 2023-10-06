@@ -27,14 +27,14 @@ O nosso sistema utiliza-se de lojas de pizza  que não teriam nenhum espaço de 
 
 # Análise de requisitos funcionais e não-funcionais
 Requisitos funcionais: 
--Auxílio dos computadores para processar os pedidos .
--Identificar a localização de loja mais próxima do cliente.
--Ordenar os pedidos de cada loja, de forma a garantir a entrega dentro do tempo estipulado.
--Atendimento do pedido.
+* O sistema deve realizar o processamento do pedido.
+* O sistema deve receber o cadastro do cliente.
+* O sistema deve identificar a localização de loja mais próxima do cliente e enviar o pedido à mesma.
+* O sistema deve ordenar os pedidos de cada loja, de forma a garantir a entrega dentro do tempo estipulado.
 
 Requisitos não funcionais: 
--O sistema deve ser rápido e eficiente, garantindo que o processamento de pedidos e as buscas pela loja mais próxima ocorram com o melhor -desempenho possível.
--O sistema deve proteger as informações fornecidas pelo cliente, a fim de cumprir com as políticas de segurança. 
+* O sistema deve ser rápido e eficiente, garantindo que o processamento de pedidos e as buscas pela loja mais próxima ocorram com um desempenho ideal.
+* O sistema deve proteger as informações fornecidas pelo cliente, a fim de cumprir com as políticas de segurança.
 
 # Diagrama de casos de uso
 ![WhatsApp Image 2023-10-05 at 3 54 09 PM](https://github.com/32338/Projeto-UML/assets/142840950/b2d3470f-ea33-444f-ae1f-955bd08cccea)
