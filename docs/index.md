@@ -23,7 +23,7 @@
 
 # Descrição do projeto
 
-*&lt;Introdução do projeto&gt;*
+O nosso sistema utiliza-se de lojas de pizza  que não teriam nenhum espaço de varejo, com a função é somente receber ordens, preparar e entregar as pizzas. O sistema de software cuidado atendimento do pedido e procura a  localização da fábrica da pizza mais próxima do cliente para fazer a entrega. Assim, a loja localizada o mais próximo do cliente receberá a ordem através de uma central, processará, e entregará a ordem.
 
 # Análise de requisitos funcionais e não-funcionais
 *&lt;Descrição dos requisitos&gt;*
