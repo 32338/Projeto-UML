@@ -49,4 +49,4 @@ O nosso sistema utiliza-se de lojas de pizza  que não teriam nenhum espaço de 
 
 # Diagrama de sequência
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+https://cdn.discordapp.com/attachments/1098002657513324676/1159990335221538876/image.png?ex=6533082f&is=6520932f&hm=dce86e2635fdc5b5aed25ee77fe0e5cc1340d4bfa6df203e64fdc95a925667c6&
