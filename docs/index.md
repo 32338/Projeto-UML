@@ -37,7 +37,7 @@ O nosso sistema utiliza-se de lojas de pizza  que não teriam nenhum espaço de 
 * O sistema deve proteger as informações fornecidas pelo cliente, a fim de cumprir com as políticas de segurança.
 
 # Diagrama de casos de uso
-![WhatsApp Image 2023-10-05 at 3 54 09 PM](https://github.com/32338/Projeto-UML/assets/142840950/b2d3470f-ea33-444f-ae1f-955bd08cccea)
+![f97caa98-90ec-444c-a5fd-89c115277668](https://github.com/32338/Projeto-UML/assets/142840950/328c078a-0761-4692-99d2-6ce642690fdc)
 
 
 *&lt;Diagrama para visualizar o comportamento dos atores&gt;*
