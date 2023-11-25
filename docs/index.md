@@ -43,7 +43,8 @@ O nosso sistema utiliza-se de lojas de pizza  que não teriam nenhum espaço de 
 *&lt;Diagrama para visualizar o comportamento dos atores&gt;*
 
 # Descrição dos casos de uso
-[eng - Página1 (1).pdf](https://github.com/32338/Projeto-UML/files/12835734/eng.-.Pagina1.1.pdf)
+[eng - Página1 (2).pdf](https://github.com/32338/Projeto-UML/files/13465409/eng.-.Pagina1.2.pdf)
+
 
 *&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
 
