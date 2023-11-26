@@ -51,3 +51,8 @@ O nosso sistema utiliza-se de lojas de pizza  que não teriam nenhum espaço de 
 # Diagrama de sequência
 ![7a96ba3e-a8d4-41f2-8924-4dfab0f4abc3](https://github.com/32338/Projeto-UML/assets/142840950/da954334-32d8-4ecc-b53e-fff451f4e35f)
 
+
+# Diagrama de classe
+![2766e056-77b4-49f0-86fd-f83202b6c264](https://github.com/32338/Projeto-UML/assets/142840950/1df4cf50-670d-4baf-80d1-814dfab8fe70)
+
+
