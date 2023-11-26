@@ -49,7 +49,8 @@ O nosso sistema utiliza-se de lojas de pizza  que não teriam nenhum espaço de 
 *&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
 
 # Diagrama de sequência
-![7a96ba3e-a8d4-41f2-8924-4dfab0f4abc3](https://github.com/32338/Projeto-UML/assets/142840950/da954334-32d8-4ecc-b53e-fff451f4e35f)
+![Uploading bb3a2557-3d5d-4206-b4c5-99222e992af8.jpg…]()
+
 
 
 # Diagrama de classe
