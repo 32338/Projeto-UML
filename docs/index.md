@@ -58,3 +58,15 @@ O nosso sistema utiliza-se de lojas de pizza  que não teriam nenhum espaço de 
 ![2766e056-77b4-49f0-86fd-f83202b6c264](https://github.com/32338/Projeto-UML/assets/142840950/1df4cf50-670d-4baf-80d1-814dfab8fe70)
 
 
+# Decisão da Arquitetura
+
+[Estrelinha express.pdf](https://github.com/32338/Projeto-UML/files/13481081/Estrelinha.express.pdf)
+
+
+
+# Diagrama de implantação
+
+
+![21f26727-ab29-4934-9258-ade0b15005f7](https://github.com/32338/Projeto-UML/assets/142840950/d050abd4-5392-4b0f-bb01-b4f9b5978d69)
+
+
