@@ -57,6 +57,10 @@ O nosso sistema utiliza-se de lojas de pizza  que não teriam nenhum espaço de 
 # Diagrama de classe
 ![2766e056-77b4-49f0-86fd-f83202b6c264](https://github.com/32338/Projeto-UML/assets/142840950/1df4cf50-670d-4baf-80d1-814dfab8fe70)
 
+# Decisão de componentes
+
+![e9b60cac-2735-4958-b1e8-6d9c8c1e0bbb](https://github.com/32338/Projeto-UML/assets/142840950/9ec968f1-14f1-4d37-8d02-92ccd6a991a6)
+
 
 # Decisão da Arquitetura
 
